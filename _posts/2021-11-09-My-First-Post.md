@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This is my first post"
-author: Saujan
+author: Saujan Khapung
 ---
 
 ![First Image](/uploads/images/20211109-stupa1.jpg){:height="700px" width="400px"}

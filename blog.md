@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Blogs
+permalink: /blog.html
 ---
 
-<h1>Blogs</h1>
+<h1>Latest Posts</h1>
 
 <ul>
     {% for i in site.posts %}
