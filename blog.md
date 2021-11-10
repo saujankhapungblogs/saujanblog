@@ -10,7 +10,6 @@ permalink: /blog.html
     {% for i in site.posts %}
     <li>
         <h2><a href="{{site.baseurl}}{{i.url}}">{{i.title}}</a></h2>
-        {{ post.excerpt }}
     </li>
     {% endfor %}
 </ul>
